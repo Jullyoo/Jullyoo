@@ -17,7 +17,7 @@
    <img  src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
    <img  src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
    <img  src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-   <img src="https://i.pinimg.com/736x/d9/cb/26/d9cb2660640c52add9fadbc8f5f98b23.jpg" width="150px" align="right" border-radius="100px"/>  
+   <img src="https://github.com/Jullyoo/Jullyoo/blob/main/law-icon-github2.jfif" width="150px" align="right" border-radius="100px"/>  
 </div>
 
 
