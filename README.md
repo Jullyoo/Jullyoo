@@ -27,8 +27,15 @@
   <a href ="mailto:julio.guimaraes2020@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/j-guimaraes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href=""></a> 
-    
-##
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8800FF&height=120&section=footer"/>
+ 
+</div>
 
+<div>
+   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jullyoo&show_icons=true&theme=dracula&include_all_comits=true&count_privite=true"/>
+   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jullyoo&layout=compact&theme=dracula"
+
+</div>
+
+<div>
+   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8800FF&height=120&section=footer"/>
 </div>
