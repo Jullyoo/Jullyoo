@@ -4,7 +4,7 @@
 
 ##
 📌Atuando como Analista de Operações <br>
-📌Cursando o 3º semestre de Analise e Desenvolvimento de sistemas - Anhanguera Educacional. <br>
+📌Cursando o 4º semestre de Engenharia de Software` - Anhanguera Educacional. <br>
 📌Formado em Técnico de Redes de Computadores - SENAI. <br>
 📌Sorte não é um resultado de pura coincidência!
 
